@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VivekChougule
-- 👀 I’m interested in ...Data Analytics, Web Development, Android Development.
+- 👀 I’m interested in ...Web Development, Android Development.
 
 <!---
 VivekChougule/VivekChougule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
